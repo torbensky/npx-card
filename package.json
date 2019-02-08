@@ -1,0 +1,10 @@
+{
+  "name": "@torbensky/npx-card",
+  "version": "1.0.0",
+  "description": "An npm business card for use with npx",
+  "repository": "github.com/torbensky/npx-card",
+  "author": "Torben Werner",
+  "license": "ISC",
+  "bin": "./cli.js",
+  "private": false
+}
